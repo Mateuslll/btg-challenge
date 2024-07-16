@@ -22,8 +22,7 @@ Este projeto consiste em processar pedidos e gerar relatórios de produtos utili
 - Herança TPT no banco de dados
 
 ## Organização das classes
-<img src='![image](https://github.com/user-attachments/assets/94e3b3b3-27d7-4f91-ac30-fc255a33692a)
-' width='300' height='600'></img>
+![image](https://github.com/user-attachments/assets/4adafd29-f34d-4d55-869f-feae9ece7552)
 
 # Como usar o aplicativo?
 ## Inicialização com Docker Compose
