@@ -22,7 +22,8 @@ Este projeto consiste em processar pedidos e gerar relatórios de produtos utili
 - Herança TPT no banco de dados
 
 ## Organização das classes
-<img src='https://github.com/RayanArgolo03/crud-jdbc-mysql-1/assets/113947677/86a378c2-a4ae-4909-811a-c25e738eb690' width='300' height='600'></img>
+<img src='![image](https://github.com/user-attachments/assets/94e3b3b3-27d7-4f91-ac30-fc255a33692a)
+' width='300' height='600'></img>
 
 # Como usar o aplicativo?
 ## Inicialização com Docker Compose
